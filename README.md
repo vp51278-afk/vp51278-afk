@@ -9,10 +9,7 @@ and exploring the world of Generative AI. I enjoy turning ideas into clean,
 functional and intuitive solutions.*
 
 </div>
-<div align="center">
 
-<img src="./profile.jpeg" width="160" alt="Vaishnavi Pandey">
-</div>
 ---
 
 ## 🙋‍♀️ About Me
