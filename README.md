@@ -1,55 +1,82 @@
-# Hi there, I'm Vaishnavi! 👋
+<div align="center">
 
-<img src="./profile.jpeg" alt="Vaishnavi Pandey" width="180" align="right">
+# Hi there, I'm Vaishnavi! 👋
 
 ### 👩‍💻 Full-Stack Web Developer | Generative AI Enthusiast | Problem Solver
 
-I'm a B.Tech ECE (IoT) student at Madan Mohan Malaviya University of Technology,
-passionate about building practical web applications and learning modern technologies.
+*A passionate developer focused on building practical, user-centric web applications
+and exploring the world of Generative AI. I enjoy turning ideas into clean,
+functional and intuitive solutions.*
 
-Currently, I'm focusing on **Generative AI, DSA, and Full-Stack Development**.
-
-<br clear="right"/>
+</div>
 
 ---
 
 ## 🙋‍♀️ About Me
 
-- 🎓 B.Tech in Electronics & Communication Engineering (IoT)
-- 🏫 Madan Mohan Malaviya University of Technology (MMMUT)
-- 💻 Full-Stack Web Development
-- 🤖 Currently learning Generative AI
-- 🧠 Practicing Data Structures & Algorithms
-- 🚀 Love building practical projects
-- 🌱 Always learning and exploring new technologies
+- 💻 **Web Development:** Full-Stack Web Developer with experience in the MERN stack.
+- 🤖 **Generative AI:** Currently exploring **Generative AI, LLMs, RAG and AI-powered applications.**
+- 🧠 **Problem Solving:** Currently improving my Data Structures and Algorithms skills.
+- 🌱 **Currently learning:** Generative AI, LLMs and modern web technologies.
+- 🚀 **Projects:** Built projects including an **E-Commerce Website, Expense Tracker, and Weather App.**
+- 🎓 **Education:** B.Tech in Electronics & Communication Engineering (IoT) at MMMUT.
+- ⚡ **Fun fact:** I enjoy learning new technologies and turning ideas into working applications!
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
-### 💻 Web Development
+### 🌐 Web Development — MERN Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,nextjs" />
-</p>
+<div align="center">
 
-### 🤖 AI & Programming
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
-</p>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-- Generative AI
-- LLMs
-- RAG
-- Prompt Engineering
-- Data Structures & Algorithms
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+
+</div>
+
+### 🤖 Generative AI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=google&logoColor=white" alt="LLMs" />
+
+<img src="https://img.shields.io/badge/RAG-4EA94B?style=for-the-badge&logo=langchain&logoColor=white" alt="RAG" />
+
+<img src="https://img.shields.io/badge/Hugging_Face-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+
+</div>
 
 ### 🧰 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+
+</div>
 
 ---
 
@@ -57,56 +84,34 @@ Currently, I'm focusing on **Generative AI, DSA, and Full-Stack Development**.
 
 ### 🛒 E-Commerce Website
 
-A full-stack e-commerce application focused on product browsing,
-shopping functionality and a smooth user experience.
+A full-stack e-commerce application built using modern web technologies,
+focused on product browsing, shopping functionality and a smooth user experience.
 
 ### 💰 Expense Tracker
 
-A web application for managing expenses and tracking personal spending.
+A web application designed to manage expenses and track personal spending
+with a simple and intuitive interface.
 
 ### 🌦️ Weather App
 
-A weather application that provides weather information
+A weather application that provides real-time weather information
 through a simple and user-friendly interface.
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Let's Connect!
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vp51278-afk&show_icons=true&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vp51278-afk&hide_border=true"
-    height="170"
-  />
-</p>
+I am always open to discussing web development, AI innovations,
+interesting project ideas, and potential opportunities!
 
----
+<div align="center">
 
-## 📈 Most Used Languages
+<a href="https://www.linkedin.com/in/vaishnavi-pandey-b8a712363">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vp51278-afk&layout=compact&hide_border=true"
-  />
-</p>
+<a href="https://github.com/vp51278-afk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
----
-
-## 📫 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/vaishnavi-pandey-b8a712363">
-    <img src="https://img.shields.io/badge/LinkedIn-Vaishnavi%20Pandey-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://github.com/vp51278-afk">
-    <img src="https://img.shields.io/badge/GitHub-vp51278--afk-black?style=flat-square&logo=github" />
-  </a>
-</p>
-
----
-
-⭐ Thanks for visiting my profile!
+</div>
