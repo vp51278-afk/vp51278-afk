@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile.jpeg" width="160" height="160" />
+<img src="./profile.jpeg" width="180" />
 
 <h1>Hi 👋, I'm Vaishnavi Pandey</h1>
 
