@@ -11,7 +11,7 @@ functional and intuitive solutions.*
 </div>
 <div align="center">
 
-<img src="./profile-circle.png" width="160" alt="Vaishnavi Pandey">
+<img src="./profile.jpeg" width="160" alt="Vaishnavi Pandey">
 </div>
 ---
 
