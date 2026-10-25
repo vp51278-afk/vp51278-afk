@@ -48,19 +48,8 @@ functional and intuitive solutions.*
 
 </div>
 
-### 🤖 Generative AI
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-
-<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=google&logoColor=white" alt="LLMs" />
-
-<img src="https://img.shields.io/badge/RAG-4EA94B?style=for-the-badge&logo=langchain&logoColor=white" alt="RAG" />
-
-<img src="https://img.shields.io/badge/Hugging_Face-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
-
-</div>
 
 ### 🧰 Tools
 
